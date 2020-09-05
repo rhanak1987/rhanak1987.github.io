@@ -1,0 +1,40 @@
+###
+....;....1....;....2....;....3....;....4....;....5....;....6....;....7....;....8
+....;....9....;....0....;....1....;....0
+###
+Vague idea:
+    why:
+        provide data samples and lists
+            to development projects and to study programming
+    how:
+        collect sample data items, lists and links to useful datasets
+            see-example: "quick brown fox jumps over the lazy dog"
+            see-example: https://lipsum.com/ "Lorem Ipsum"
+            see-example: https://en.wikipedia.org/wiki/Alice_and_Bob
+        it could be done in simple text files,
+            but I am now thinking of a html site and maybe json data files
+        pages:
+            index
+                title and short description (what is this site),
+                    also access to about (site meta information) page
+                highlighted content
+                    also access to site map, and all contents
+            about
+                description (what is this site)
+                author, copyright?
+            site-map
+                maybe
+                or just a navbar as long as there are only few pages
+            data-access
+                idea-A
+                    one dynamic page with loads of js
+                idea-B
+                    split to many pages
+            test-pages
+                use cases and actual study
+        direct datasets:
+            json files
+###
+History:
+    2020-09-02 site development started
+###
