@@ -1,5 +1,5 @@
 # rhanak1987 GitHub site
-Check the site at [rhanak1987.github.io](https://rhanak1987.github.io)
+Check the site at [rhanak1987.github.io](https://rhanak1987.github.io/index.html)
 
 Brief history:
  - Demo site created (for) study 2020 nive ut
