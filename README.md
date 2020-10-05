@@ -1,5 +1,4 @@
-# rhanak1987 GitHub site
- * Check the GitHub homepage at [rhanak1987.github.io](https://rhanak1987.github.io/index.html)
+# [rhanak1987 GitHub site](https://rhanak1987.github.io/index.html)
  * Jump directly to the [Data samples site](https://rhanak1987.github.io/landing.html)
 
 ## About
