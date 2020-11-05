@@ -1,4 +1,4 @@
-# [rhanak1987 GitHub site](https://rhanak1987.github.io/)
+# rhanak1987 GitHub site
 
 ## main content
  - Go to the [data samples landing page](./landing.html) to see the contents of this site.
