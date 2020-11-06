@@ -4,6 +4,9 @@
 * [codersrank profile](https://profile.codersrank.io/user/rhanak1987/info)
 * [linkedin profile](https://www.linkedin.com/in/rhanak1987/)
 
+![tech stack](./img/tech-stack-2020-11-06-061403.png)
+[]: # (<img src="./img/tech-stack-2020-11-06-061403.png" alt="">)
+
 ## Jump to the local content
 * Go to the [data samples landing page](./landing.html) to see the contents of this site.
 
