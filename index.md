@@ -1,9 +1,18 @@
 # rhanak1987 GitHub Pages
 
-## jump to the main content
- - Go to the [data samples landing page](./landing.html) to see the contents of this site.
+## About me
+* https://profile.codersrank.io/user/rhanak1987/info
+* https://www.linkedin.com/in/rhanak1987/
 
-## jump to the sandbox (leave this site)
- - [rhanak1987-sandbox.github.io](https://rhanak1987-sandbox.github.io/)
+## jump to the local content
+* Go to the [data samples landing page](./landing.html) to see the contents of this site.
+
+## external contents (leave this site)
+
+### jump to the sandbox
+* [rhanak1987-sandbox.github.io](https://rhanak1987-sandbox.github.io/)
+
+### Quick links
+* [study time - GitHub project](https://github.com/orgs/rhanak1987-sandbox/projects/1)
 
 ###### fin
