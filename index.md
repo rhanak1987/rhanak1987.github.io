@@ -1,8 +1,8 @@
 # rhanak1987 GitHub Pages
 
 ## About me
-* https://profile.codersrank.io/user/rhanak1987/info
-* https://www.linkedin.com/in/rhanak1987/
+* [codersrank profile](https://profile.codersrank.io/user/rhanak1987/info)
+* [linkedin profile](https://www.linkedin.com/in/rhanak1987/)
 
 ## jump to the local content
 * Go to the [data samples landing page](./landing.html) to see the contents of this site.
