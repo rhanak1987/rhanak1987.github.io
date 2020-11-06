@@ -4,6 +4,8 @@
 * [codersrank profile](https://profile.codersrank.io/user/rhanak1987/info)
 * [linkedin profile](https://www.linkedin.com/in/rhanak1987/)
 
+### Tech Stack
+Note: This is a broad list including professional experience and other studies as well. Year numbers are not exact. (c. 2020)
 ![tech stack](./img/tech-stack-2020-11-06-061403.png)
 
 <!-- []: # (<img src="./img/tech-stack-2020-11-06-061403.png" alt="">) -->
